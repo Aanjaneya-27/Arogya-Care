@@ -26,5 +26,5 @@ To learn more about Next.js, take a look at
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your fe
+You can check out [the Next.js GitHub repository](https://gi
 
