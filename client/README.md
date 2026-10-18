@@ -24,5 +24,5 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next
 
-You can check out [the Next.js GitHub repository](https://gi
+You can check out [the Next.js GitHub repository]
 
