@@ -21,7 +21,6 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 ## Learn M
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next
-- [Learn Next.js](https://nex
-
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Nex
+- [Learn Next.js](https://ne
 You can check out [the Next.js Gi
